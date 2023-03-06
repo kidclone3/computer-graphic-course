@@ -1,0 +1,991 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						10
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "assignments",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-assignments-Debug-c5bffbc438d5d3a480a7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "assignments"
+				},
+				{
+					"build" : "assignments/a0",
+					"jsonFile" : "directory-assignments.a0-Debug-fe50b1655bf7582342f1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "assignments/a0",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "assignments/a1",
+					"jsonFile" : "directory-assignments.a1-Debug-7dbe5dbbcabdb5d17d1e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "assignments/a1",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "assignments/a2",
+					"jsonFile" : "directory-assignments.a2-Debug-9e1a33d29768f76d579b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "assignments/a2",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "assignments/a3",
+					"jsonFile" : "directory-assignments.a3-Debug-1e1b3095d496df8d0b00.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "assignments/a3",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "assignments/a4",
+					"jsonFile" : "directory-assignments.a4-Debug-578485d43927d59556b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 5,
+					"source" : "assignments/a4",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "assignments/a5",
+					"jsonFile" : "directory-assignments.a5-Debug-7881621e0f12f5efb88e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 6,
+					"source" : "assignments/a5",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "assignments/a6",
+					"jsonFile" : "directory-assignments.a6-Debug-a6139a197241b589209d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 7,
+					"source" : "assignments/a6",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "assignments/tech_proj",
+					"jsonFile" : "directory-assignments.tech_proj-Debug-997d1cd391f156bf68d5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 8,
+					"source" : "assignments/tech_proj",
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"build" : "tutorials",
+					"childIndexes" : 
+					[
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						21
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-tutorials-Debug-d407ad1453199e02e03f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tutorials"
+				},
+				{
+					"build" : "tutorials/tutorial_cpp101",
+					"jsonFile" : "directory-tutorials.tutorial_cpp101-Debug-154b13f9e7a6d0e2ade4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 9,
+					"source" : "tutorials/tutorial_cpp101",
+					"targetIndexes" : 
+					[
+						36
+					]
+				},
+				{
+					"build" : "tutorials/tutorial_hello_glsl",
+					"jsonFile" : "directory-tutorials.tutorial_hello_glsl-Debug-59b811f375c50047d352.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 10,
+					"source" : "tutorials/tutorial_hello_glsl",
+					"targetIndexes" : 
+					[
+						37
+					]
+				},
+				{
+					"build" : "tutorials/tutorial_lighting",
+					"jsonFile" : "directory-tutorials.tutorial_lighting-Debug-5df1a318f9fd48e2c888.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 11,
+					"source" : "tutorials/tutorial_lighting",
+					"targetIndexes" : 
+					[
+						38
+					]
+				},
+				{
+					"build" : "tutorials/tutorial_matrix",
+					"jsonFile" : "directory-tutorials.tutorial_matrix-Debug-8af9663502241bedb549.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 12,
+					"source" : "tutorials/tutorial_matrix",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "tutorials/tutorial_mesh",
+					"jsonFile" : "directory-tutorials.tutorial_mesh-Debug-73d001b228865b4e5002.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 13,
+					"source" : "tutorials/tutorial_mesh",
+					"targetIndexes" : 
+					[
+						39
+					]
+				},
+				{
+					"build" : "tutorials/tutorial_opengl",
+					"childIndexes" : 
+					[
+						17
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-tutorials.tutorial_opengl-Debug-fdc3350a8bfa18c5dac4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 14,
+					"source" : "tutorials/tutorial_opengl",
+					"targetIndexes" : 
+					[
+						40
+					]
+				},
+				{
+					"build" : "tutorials/tutorial_opengl/glfw-3.3",
+					"childIndexes" : 
+					[
+						18,
+						19,
+						20
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-tutorials.tutorial_opengl.glfw-3.3-Debug-49e20bcd7366e83778e6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 15,
+					"source" : "tutorials/tutorial_opengl/glfw-3.3",
+					"targetIndexes" : 
+					[
+						42
+					]
+				},
+				{
+					"build" : "tutorials/tutorial_opengl/glfw-3.3/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-tutorials.tutorial_opengl.glfw-3.3.src-Debug-e76f3ebb64a64ac7e641.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 15,
+					"source" : "tutorials/tutorial_opengl/glfw-3.3/src",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "tutorials/tutorial_opengl/glfw-3.3/examples",
+					"jsonFile" : "directory-tutorials.tutorial_opengl.glfw-3.3.examples-Debug-52fdd8566292482720a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 15,
+					"source" : "tutorials/tutorial_opengl/glfw-3.3/examples",
+					"targetIndexes" : 
+					[
+						7,
+						13,
+						16,
+						24,
+						26,
+						28,
+						29,
+						30,
+						44
+					]
+				},
+				{
+					"build" : "tutorials/tutorial_opengl/glfw-3.3/tests",
+					"jsonFile" : "directory-tutorials.tutorial_opengl.glfw-3.3.tests-Debug-d4c7cb45da103c4dd572.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 15,
+					"source" : "tutorials/tutorial_opengl/glfw-3.3/tests",
+					"targetIndexes" : 
+					[
+						8,
+						9,
+						10,
+						11,
+						12,
+						15,
+						17,
+						18,
+						19,
+						20,
+						22,
+						23,
+						25,
+						27,
+						31,
+						33,
+						34,
+						35,
+						43,
+						45
+					]
+				},
+				{
+					"build" : "tutorials/tutorial_shader_programming",
+					"jsonFile" : "directory-tutorials.tutorial_shader_programming-Debug-b0c8ecaada6b0e2afce0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.7"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 16,
+					"source" : "tutorials/tutorial_shader_programming",
+					"targetIndexes" : 
+					[
+						41
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						16
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						10
+					],
+					"name" : "dartmouth-graphics"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "assignment0",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "assignment1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "assignment2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "assignment3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "assignment4",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "assignment5",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "assignment6",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "tech_proj",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "tutorial_cpp101",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						36
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "tutorial_hello_glsl",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						37
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "tutorial_lighting",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						38
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "matrix",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15
+					],
+					"name" : "tutorial_mesh",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						39
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						15
+					],
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "tutorial_opengl",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						40
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						17,
+						18,
+						19,
+						20
+					],
+					"name" : "GLFW",
+					"parentIndex" : 14,
+					"targetIndexes" : 
+					[
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						33,
+						34,
+						35,
+						42,
+						43,
+						44,
+						45
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						21
+					],
+					"name" : "tutorial_shader_programming",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						41
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "assignment0::@036ce5b040f34078120d",
+					"jsonFile" : "target-assignment0-Debug-0dc80d22626edd9322ac.json",
+					"name" : "assignment0",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "assignment1::@f553a805699cdd8973d7",
+					"jsonFile" : "target-assignment1-Debug-f42933b6d050435af42b.json",
+					"name" : "assignment1",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "assignment2::@74de09cf49c5759fef74",
+					"jsonFile" : "target-assignment2-Debug-9d788fe512fd60a7d7c1.json",
+					"name" : "assignment2",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "assignment3::@d28b49a034daa1b8ce5c",
+					"jsonFile" : "target-assignment3-Debug-c3fa08b4eb960d6fb79b.json",
+					"name" : "assignment3",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "assignment4::@441f36411ea7fcfdb249",
+					"jsonFile" : "target-assignment4-Debug-1300f7f19bfca244ba93.json",
+					"name" : "assignment4",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "assignment5::@05650c0e003bb6281662",
+					"jsonFile" : "target-assignment5-Debug-3ea1e318950bc319d339.json",
+					"name" : "assignment5",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "assignment6::@3071bb18aec02145b7ac",
+					"jsonFile" : "target-assignment6-Debug-3c4db8e69cbac92b3da0.json",
+					"name" : "assignment6",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "boing::@f37dd630293b54d5822c",
+					"jsonFile" : "target-boing-Debug-62cccd97fc2d54fa6b3a.json",
+					"name" : "boing",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "clipboard::@ca11872b6145f964d502",
+					"jsonFile" : "target-clipboard-Debug-966d2833946785ad0763.json",
+					"name" : "clipboard",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "cursor::@ca11872b6145f964d502",
+					"jsonFile" : "target-cursor-Debug-80a4a041e4d6d033cc9b.json",
+					"name" : "cursor",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "empty::@ca11872b6145f964d502",
+					"jsonFile" : "target-empty-Debug-e433450c29c5e1de4ec9.json",
+					"name" : "empty",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "events::@ca11872b6145f964d502",
+					"jsonFile" : "target-events-Debug-7a9e1ff5e7e04b136c46.json",
+					"name" : "events",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "gamma::@ca11872b6145f964d502",
+					"jsonFile" : "target-gamma-Debug-1393bd4c90940cd68b4c.json",
+					"name" : "gamma",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "gears::@f37dd630293b54d5822c",
+					"jsonFile" : "target-gears-Debug-90a83e0f6d68c2052be6.json",
+					"name" : "gears",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "glfw::@0a45bc55e2d8a95de3b4",
+					"jsonFile" : "target-glfw-Debug-2ebb0c35ebbae87a11dc.json",
+					"name" : "glfw",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "glfwinfo::@ca11872b6145f964d502",
+					"jsonFile" : "target-glfwinfo-Debug-c7736407590190b2018d.json",
+					"name" : "glfwinfo",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "heightmap::@f37dd630293b54d5822c",
+					"jsonFile" : "target-heightmap-Debug-fe93de1fe4c59f1ad865.json",
+					"name" : "heightmap",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "icon::@ca11872b6145f964d502",
+					"jsonFile" : "target-icon-Debug-8236a45b940f4b13bf6b.json",
+					"name" : "icon",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "iconify::@ca11872b6145f964d502",
+					"jsonFile" : "target-iconify-Debug-331f23dd1c9ee3d4c09d.json",
+					"name" : "iconify",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "inputlag::@ca11872b6145f964d502",
+					"jsonFile" : "target-inputlag-Debug-4d3012f7116367c9f65f.json",
+					"name" : "inputlag",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "joysticks::@ca11872b6145f964d502",
+					"jsonFile" : "target-joysticks-Debug-62036cf7ef77a1065df2.json",
+					"name" : "joysticks",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "matrix::@026176e81646f1115b45",
+					"jsonFile" : "target-matrix-Debug-92789cfbdf5506b63f8a.json",
+					"name" : "matrix",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "monitors::@ca11872b6145f964d502",
+					"jsonFile" : "target-monitors-Debug-96791338d2d4ba3afebc.json",
+					"name" : "monitors",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "msaa::@ca11872b6145f964d502",
+					"jsonFile" : "target-msaa-Debug-a0b8fc24746a4341e317.json",
+					"name" : "msaa",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "offscreen::@f37dd630293b54d5822c",
+					"jsonFile" : "target-offscreen-Debug-7fc48b553fc3df41dac0.json",
+					"name" : "offscreen",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "opacity::@ca11872b6145f964d502",
+					"jsonFile" : "target-opacity-Debug-c5f2a68eeff8570459ee.json",
+					"name" : "opacity",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "particles::@f37dd630293b54d5822c",
+					"jsonFile" : "target-particles-Debug-dcb287b2d73a550b2554.json",
+					"name" : "particles",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "reopen::@ca11872b6145f964d502",
+					"jsonFile" : "target-reopen-Debug-f685e84153102f093ab6.json",
+					"name" : "reopen",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "sharing::@f37dd630293b54d5822c",
+					"jsonFile" : "target-sharing-Debug-ad93f155325612d759e8.json",
+					"name" : "sharing",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "simple::@f37dd630293b54d5822c",
+					"jsonFile" : "target-simple-Debug-13e434b813607dad357f.json",
+					"name" : "simple",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "splitview::@f37dd630293b54d5822c",
+					"jsonFile" : "target-splitview-Debug-7b4b3a4f87add3d33b00.json",
+					"name" : "splitview",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "tearing::@ca11872b6145f964d502",
+					"jsonFile" : "target-tearing-Debug-7ba2db5b98ee6c6c6819.json",
+					"name" : "tearing",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "tech_proj::@87bdacd84658f93e6d26",
+					"jsonFile" : "target-tech_proj-Debug-acbb4bdf2be7ec0ae5c5.json",
+					"name" : "tech_proj",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "threads::@ca11872b6145f964d502",
+					"jsonFile" : "target-threads-Debug-a59ae88b49b2b2e0bd70.json",
+					"name" : "threads",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "timeout::@ca11872b6145f964d502",
+					"jsonFile" : "target-timeout-Debug-6da05691a419bb2501de.json",
+					"name" : "timeout",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "title::@ca11872b6145f964d502",
+					"jsonFile" : "target-title-Debug-68066bed16e470221e07.json",
+					"name" : "title",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "tutorial_cpp101::@8d009688c6f97ebeac6c",
+					"jsonFile" : "target-tutorial_cpp101-Debug-bbc199e23d934b28f233.json",
+					"name" : "tutorial_cpp101",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "tutorial_hello_glsl::@9510524bc280904f3d8a",
+					"jsonFile" : "target-tutorial_hello_glsl-Debug-63730dec086587da8100.json",
+					"name" : "tutorial_hello_glsl",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "tutorial_lighting::@a069bf16e3b8b8a16eb2",
+					"jsonFile" : "target-tutorial_lighting-Debug-5e518dbc9707cbba243a.json",
+					"name" : "tutorial_lighting",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "tutorial_mesh::@dfebbd7a4897a6ff4b8e",
+					"jsonFile" : "target-tutorial_mesh-Debug-87a4be7b8c79d7dd7ebe.json",
+					"name" : "tutorial_mesh",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "tutorial_opengl::@92241afbb1b97b23a49b",
+					"jsonFile" : "target-tutorial_opengl-Debug-8b6bdc03584c927e7d65.json",
+					"name" : "tutorial_opengl",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "tutorial_shader_programming::@1f598fba6a91c6f1ac65",
+					"jsonFile" : "target-tutorial_shader_programming-Debug-b4fa864dbba1ed2bbe83.json",
+					"name" : "tutorial_shader_programming",
+					"projectIndex" : 16
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "uninstall::@db6a128cd3d93e9642a5",
+					"jsonFile" : "target-uninstall-Debug-dbc1db1fb11e6a5035b3.json",
+					"name" : "uninstall",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "vulkan::@ca11872b6145f964d502",
+					"jsonFile" : "target-vulkan-Debug-466072d4f51c319f949e.json",
+					"name" : "vulkan",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "wave::@f37dd630293b54d5822c",
+					"jsonFile" : "target-wave-Debug-da6d3c6b32ba721fc1c3.json",
+					"name" : "wave",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "windows::@ca11872b6145f964d502",
+					"jsonFile" : "target-windows-Debug-3757345eb853f8aa99a3.json",
+					"name" : "windows",
+					"projectIndex" : 15
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/delus/Documents/projects/free-lancer/dartmouth-cg-starter-code/cmake-build-debug",
+		"source" : "/Users/delus/Documents/projects/free-lancer/dartmouth-cg-starter-code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
